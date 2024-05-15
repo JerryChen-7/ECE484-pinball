@@ -6,7 +6,7 @@ The full project can be found here: https://github.com/eicherbe/ECE484Pinball.
 
 <br>
 
-## This portion of the project focused on the background music of the pinball machine.
+### This portion of the project focused on the background music of the pinball machine.
 
 This is a modified version of my audioCodec project which can be found here: \
 https://github.com/JerryChen-7/ECE484-audioCodec
